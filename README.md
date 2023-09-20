@@ -1,4 +1,4 @@
-<<<<<<< HEAD# SimpleC_RPG
+SimpleC_RPG
 C++ RPG Game very, very basic, designed to learn some C++
 =======
 # SimpleRPG_IN_C
